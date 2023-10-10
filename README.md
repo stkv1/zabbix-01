@@ -50,7 +50,8 @@ systemctl enable zabbix-agent
 
 ![Данные от агентов](https://github.com/stkv1/zabbix-01/blob/main/img/013.PNG)
 
-### Задание 3
+## Задание 3
+
 ![Активные агенты в панели управления](https://github.com/stkv1/zabbix-01/blob/main/img/009.PNG)
 
 ![Использование диска C:](https://github.com/stkv1/zabbix-01/blob/main/img/010.PNG)
