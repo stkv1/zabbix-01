@@ -44,9 +44,15 @@ systemctl enable zabbix-agent
 
 Разрешаем подключения сервера к агенту в `/etc/zabbix/zabbix_agentd.conf`
 
+Лог Zabbix-агента
+
 ![лог Zabbix-агента](https://github.com/stkv1/zabbix-01/blob/main/img/012.PNG)
 
+Активные агенты в панели управления
+
 ![Активные агенты в панели управления](https://github.com/stkv1/zabbix-01/blob/main/img/006.PNG)
+
+Сбор данных от агентов
 
 ![Данные от агентов](https://github.com/stkv1/zabbix-01/blob/main/img/013.PNG)
 
